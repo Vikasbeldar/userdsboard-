@@ -1,0 +1,16 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "username": "Pankaj",
+        "email": "vbeldar2011@mail.com",
+        "role":"admin"
+      },
+      {
+        "id": 2,
+        "username": "Pankaj",
+        "email": "vbeldar2011@mail.com",
+        "role":"admin"
+      }
+    ]
+  }

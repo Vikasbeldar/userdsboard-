@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": "8085",
+      "username": "vikasbeldar",
+      "email": "vikasbeldar9561@gmail.com",
+      "role": "Admin"
+    },
+    {
+      "id": "7d87",
+      "username": "vikasbeldar",
+      "email": "vikasbeldar9561@gmail.com",
+      "role": "Admin"
+    },
+    {
+      "id": "3318",
+      "username": "vikasbeldar",
+      "email": "vikasbeldar9561@gmail.com",
+      "role": "Admin"
+    },
+    {
+      "id": "f537",
+      "username": "sam",
+      "email": "vikasbeldar9561@gmail.com",
+      "role": "Admin"
+    },
+    {
+      "id": "ae5f",
+      "username": "vikasbeldar",
+      "email": "vikasbeldar9561@gmail.com",
+      "role": "Admin"
+    }
+  ]
+}
